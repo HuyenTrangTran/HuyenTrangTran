@@ -7,7 +7,7 @@
       
       
 ###
-<a href="https://github.com/HuyenTrangTran"><img align="left" width="300" height="300" src="https://github.com/HuyenTrangTran/tthuyentrang/blob/main/7193873765328200482.gif?raw=true"></a>
+<a href="https://github.com/HuyenTrangTran"><img align="left" width="250" height="300" src="https://github.com/HuyenTrangTran/tthuyentrang/blob/main/7193873765328200482.gif?raw=true"></a>
 
 
 ##
